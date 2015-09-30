@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Amercado.TipCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="foodLBL">Food Amount</string>
+    <string name="taxLBL">Amount in Taxes</string>
+    <string name="tip1LBL">10%</string>
+    <string name="tip2LBL">15%</string>
+    <string name="tip3LBL">20%</string>
+    <string name="calcLBL">Calculate!</string>
+    <string name="tipLBL">Tip Amount</string>
+    <string name="totalLBL">Total Bill</string>
+    <string name="tipbtnLBL">Tip Percentage</string>
+
+</resources>
